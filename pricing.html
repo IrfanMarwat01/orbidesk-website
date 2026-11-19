@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pricing — OrbiDesk AI | AI WhatsApp Receptionist for Clinics</title>
+<meta name="description" content="See what OrbiDesk AI can recover for your clinic with the revenue calculator, then book a free demo. Simple, predictable pricing for smarter clinics.">
+<link rel="canonical" href="https://orbideskai.com/pricing">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="OrbiDesk AI">
+<meta property="og:title" content="Pricing — OrbiDesk AI | AI WhatsApp Receptionist for Clinics">
+<meta property="og:description" content="See what OrbiDesk AI can recover for your clinic with the revenue calculator, then book a free demo. Simple, predictable pricing for smarter clinics.">
+<meta property="og:url" content="https://orbideskai.com/pricing">
+<meta property="og:image" content="https://orbideskai.com/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#0A2540">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/orbidesk.css">
+<style>
+  .calc{display:grid;grid-template-columns:1fr 1fr;gap:0;border-radius:22px;overflow:hidden;box-shadow:var(--shadow);border:1px solid var(--line);max-width:960px;margin:0 auto}
+  .calc .in{background:#fff;padding:40px}
+  .calc .out{background:linear-gradient(160deg,#0A2540,#0F3457);color:#fff;padding:40px;display:flex;flex-direction:column;justify-content:center}
+  .cfield{margin-bottom:24px}
+  .cfield label{font-size:13.5px;font-weight:600;color:var(--slate);display:flex;justify-content:space-between;margin-bottom:10px}
+  .cfield label b{color:var(--teal-deep);font-family:'Space Grotesk'}
+  input[type=range]{width:100%;accent-color:var(--teal)}
+  .bignum{font-family:'Space Grotesk';font-size:50px;font-weight:700;color:var(--aqua);line-height:1}
+  .out .lab{font-size:14px;color:#9DB6C4;margin-top:8px}
+  .out .cs{margin-top:24px;border-top:1px solid rgba(255,255,255,.14);padding-top:20px;font-size:14px;color:#CFE0EA}
+  @media(max-width:900px){.calc{grid-template-columns:1fr}}
+  .why{display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:820px;margin:0 auto}
+  @media(max-width:900px){.why{grid-template-columns:1fr}}
+  .whyi{background:#fff;border:1px solid var(--line);border-radius:14px;padding:18px;display:flex;gap:14px;align-items:flex-start}
+  .whyi .ic{width:40px;height:40px;border-radius:11px;background:linear-gradient(135deg,var(--teal-deep),var(--teal));color:#fff;display:grid;place-items:center;font-size:18px;flex:0 0 40px}
+  .whyi p{font-size:14px;color:var(--ink)}
+  .roi{background:#fff;border:1px solid var(--line);border-radius:22px;padding:52px 32px;text-align:center;max-width:720px;margin:0 auto;box-shadow:var(--shadow)}
+  .roi h2{font-size:30px}
+  .roi .accent{background:linear-gradient(120deg,var(--teal),var(--aqua));-webkit-background-clip:text;background-clip:text;color:transparent}
+</style>
+</head>
+<body>
+
+
+<!-- NAV -->
+<nav aria-label="Main"><div class="wrap">
+  <a class="brand" href="/"><div class="logo" aria-hidden="true">O</div> OrbiDesk AI</a>
+  <div class="navlinks">
+    <a href="/product">Product</a>
+    <a href="/features">Features</a>
+    <a href="/use-cases">Use Cases</a>
+    <a href="/pricing" class="active" aria-current="page">Pricing</a>
+    <a href="/about">About</a>
+    <a href="/blog">Blog</a>
+  </div>
+  <div class="navcta">
+    <a class="btn btn-ghost" href="https://app.orbideskai.com/onboard-clinic">Onboard Clinic</a>
+    <a class="btn btn-primary" href="/contact#book">Book a Demo</a>
+    <details class="mnav">
+      <summary aria-label="Open menu"><span></span><span></span><span></span></summary>
+      <div class="mpanel">
+        <a href="/product">Product</a>
+        <a href="/features">Features</a>
+        <a href="/use-cases">Use Cases</a>
+        <a href="/pricing" class="active" aria-current="page">Pricing</a>
+        <a href="/about">About</a>
+        <a href="/blog">Blog</a>
+        <a href="/faq">FAQ</a>
+        <a href="/contact#book">Contact</a>
+        <a href="https://app.orbideskai.com/onboard-clinic">Onboard Clinic</a>
+        <a href="https://app.orbideskai.com/login">Log in</a>
+      </div>
+    </details>
+  </div>
+</div></nav>
+
+<!-- HERO -->
+<header class="pagehero"><div class="wrap">
+  <span class="eyebrow">● Pricing</span>
+  <h1>Simple, predictable pricing for <span class="accent">smarter clinics</span></h1>
+  <p>Automate your clinic's WhatsApp, bookings, and follow-ups — without hiring extra staff. See what OrbiDesk could recover for you, then book a demo for a plan tailored to your clinic.</p>
+  <a class="btn btn-primary" href="/contact#book">Book a Free Demo →</a>
+</div></header>
+
+<!-- CALCULATOR -->
+<section class="s"><div class="wrap">
+  <div class="center"><span class="eyebrow">● See your ROI</span><h2 class="title">How much revenue are you leaving on the table?</h2></div>
+  <div class="calc">
+    <div class="in">
+      <div class="cfield"><label>Patients messaging per day <b id="lp">40</b></label><input type="range" id="p" min="10" max="200" value="40"></div>
+      <div class="cfield"><label>Missed / unanswered (%) <b id="lm">25%</b></label><input type="range" id="m" min="5" max="60" value="25"></div>
+      <div class="cfield"><label>Avg. value per patient (PKR) <b id="lv">3,000</b></label><input type="range" id="v" min="500" max="20000" step="500" value="3000"></div>
+      <div class="cfield"><label>Missed conversations that become bookings (%) <b id="lr">30%</b></label><input type="range" id="r" min="5" max="80" value="30"></div>
+      <p style="font-size:12.5px;color:var(--slate)">Drag the sliders — the estimate updates live.</p>
+    </div>
+    <div class="out">
+      <div class="lab">Estimated revenue OrbiDesk could recover</div>
+      <div class="bignum" id="res">PKR 0</div>
+      <div class="lab">per month</div>
+      <div class="cs">Assumes <b id="rec">30%</b> of missed conversations become bookings. An estimate, not a guarantee.</div>
+    </div>
+  </div>
+</div></section>
+
+<!-- WHY -->
+<section class="s mist"><div class="wrap">
+  <div class="center"><span class="eyebrow">● Why OrbiDesk AI</span><h2 class="title">Why clinics choose OrbiDesk</h2></div>
+  <div class="why">
+    <div class="whyi"><div class="ic">🤖</div><p>A fully autonomous AI receptionist. Your team steps in only when your rules say so.</p></div>
+    <div class="whyi"><div class="ic">💬</div><p>Works directly on WhatsApp — no new app needed.</p></div>
+    <div class="whyi"><div class="ic">✨</div><p>Follows up on missed visits and unbooked enquiries automatically.</p></div>
+    <div class="whyi"><div class="ic">🕐</div><p>Handles bookings 24/7 without human staff.</p></div>
+    <div class="whyi"><div class="ic">🛡️</div><p>Designed specifically for clinics — not generic AI tools.</p></div>
+  </div>
+</div></section>
+
+<!-- FINAL CTA -->
+<section class="s mist"><div class="wrap"><div class="final">
+  <h2>See OrbiDesk AI in action</h2>
+  <p>See how OrbiDesk AI runs your clinic automatically, in real time. Book a free demo and we'll tailor a plan to your clinic.</p>
+  <a class="btn btn-primary" style="font-size:16px;padding:15px 32px" href="/contact#book">Book a Demo →</a>
+</div></div></section>
+
+<!-- FOOTER -->
+<footer><div class="wrap">
+  <div class="fcols">
+    <div>
+      <a class="brand" href="/" style="color:#fff;margin-bottom:14px"><div class="logo" aria-hidden="true">O</div> OrbiDesk AI</a>
+      <p style="max-width:280px">Your AI WhatsApp receptionist for modern clinics: patient replies, bookings, reminders and follow-ups.</p>
+    </div>
+    <div><h4>Product</h4><a href="/product">How it works</a><a href="/features">Features</a><a href="/use-cases">Use Cases</a><a href="/pricing">Pricing</a></div>
+    <div><h4>Company</h4><a href="/about">About</a><a href="/blog">Blog</a><a href="/faq">FAQ</a><a href="/contact#book">Contact</a></div>
+    <div><h4>For clinics</h4><a href="https://app.orbideskai.com/login">Log in</a><a href="https://app.orbideskai.com/onboard-clinic">Onboard Clinic</a><a href="/privacy-policy">Privacy Policy</a><a href="/terms-of-service">Terms of Service</a></div>
+  </div>
+  <div class="fbtm"><span>© 2026 OrbiDesk AI. All rights reserved.</span><span>Made for clinics across Pakistan &amp; South Asia.</span></div>
+</div></footer>
+
+<script>
+  const p=document.getElementById('p'),m=document.getElementById('m'),v=document.getElementById('v'),r=document.getElementById('r'),lr=document.getElementById('lr'),rec=document.getElementById('rec');
+  const lp=document.getElementById('lp'),lm=document.getElementById('lm'),lv=document.getElementById('lv'),res=document.getElementById('res');
+  const fmt=n=>n.toLocaleString('en-PK');
+  function calc(){const pd=+p.value,mp=+m.value/100,val=+v.value,rp=+r.value/100;lp.textContent=pd;lm.textContent=m.value+'%';lv.textContent=fmt(val);lr.textContent=r.value+'%';rec.textContent=r.value+'%';res.textContent='PKR '+fmt(Math.round(pd*30*mp*rp*val));}
+  [p,m,v,r].forEach(el=>el.addEventListener('input',calc));calc();
+</script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+# The clinic dashboard moves to app.orbideskai.com. Old links keep working.
+/login                  https://app.orbideskai.com/login                  301
+/onboard-clinic         https://app.orbideskai.com/onboard-clinic         301
+/pending                https://app.orbideskai.com/pending                301
+/pending-approval       https://app.orbideskai.com/pending-approval       301
+/hub                    https://app.orbideskai.com/hub                    301
+/dashboard              https://app.orbideskai.com/dashboard              301
+/dashboard/*            https://app.orbideskai.com/dashboard/:splat       301
+/admin                  https://app.orbideskai.com/admin                  301
+/admin/*                https://app.orbideskai.com/admin/:splat           301
+/meta/whatsapp/callback https://app.orbideskai.com/meta/whatsapp/callback 302
