@@ -74,9 +74,9 @@
 </div></header>
 
 <section class="s"><div class="legal">
-  <p class="updated">Last updated: July 2026</p>
+  <p class="updated">Last updated: 20 November 2026</p>
 
-  <p>OrbiDesk AI ("OrbiDesk AI", "we", "us", or "our") provides an AI-powered WhatsApp receptionist and clinic-automation platform for healthcare clinics. This Privacy Policy explains how we handle information when clinics ("Clinics") use our platform and when patients interact with a Clinic through it. OrbiDesk AI is based in Pakistan and operates under Pakistani law.</p>
+  <p>OrbiDesk AI ("OrbiDesk AI", "we", "us", or "our") provides an AI-powered WhatsApp receptionist and clinic-automation platform for healthcare clinics. This Privacy Policy explains how we handle information when clinics ("Clinics") use our platform and when patients interact with a Clinic through it. OrbiDesk AI is operated by Irfan Ullah Khan as a business registered in Pakistan, and operates under Pakistani law.</p>
 
   <h2>1. Our role: processor for Clinics</h2>
   <p>OrbiDesk AI is a business-to-business platform. When it comes to patient information, the <strong>Clinic is the data controller</strong> and OrbiDesk AI acts as a <strong>data processor</strong> that handles patient information on the Clinic's behalf and instructions. Each Clinic is responsible for obtaining any consents required from its patients. For information about a specific Clinic's own privacy practices, please contact that Clinic.</p>
@@ -99,17 +99,26 @@
   </ul>
   <p>OrbiDesk AI does not diagnose conditions, prescribe treatment, or make medical decisions. All medical decisions remain with the Clinic's clinicians.</p>
 
-  <h2>4. WhatsApp and third-party services</h2>
-  <p>The platform operates through the official Meta WhatsApp Business Platform, and patient messages are transmitted through WhatsApp in accordance with Meta's terms and policies. We also rely on trusted service providers for cloud hosting and, where applicable, payment processing. These providers process information only as needed to deliver their services to us.</p>
+  <h2>4. WhatsApp and service providers (sub-processors)</h2>
+  <p>The platform operates through the official Meta WhatsApp Business Platform, and patient messages are transmitted through WhatsApp in accordance with Meta's terms and policies. To run the service we use the following providers, each of which processes information only to deliver its service to us:</p>
+  <ul>
+    <li><strong>Meta Platforms (WhatsApp Business Platform):</strong> delivers messages between patients and the Clinic.</li>
+    <li><strong>Google (Google Cloud and the Gemini AI service):</strong> application hosting in Mumbai, India, and generation of AI replies to patient messages.</li>
+    <li><strong>Supabase:</strong> database and login accounts, hosted in Mumbai, India.</li>
+    <li><strong>Redis Cloud:</strong> message-processing queues, hosted in Mumbai, India.</li>
+    <li><strong>Sentry:</strong> error monitoring, hosted in the United States.</li>
+  </ul>
+  <p>Because some of these providers operate outside Pakistan, information may be processed in other countries, including India and the United States.</p>
 
   <h2>5. How we store and protect information</h2>
-  <p>Clinic and patient information is stored on encrypted, access-controlled cloud infrastructure. Each Clinic operates within its own isolated tenant, and strict row-level security is designed so that no Clinic can access another Clinic's patients, conversations, appointments, or staff. Access is role-based, and authentication is enforced on dashboard requests. No method of transmission or storage is completely secure, but we apply industry-standard safeguards appropriate for healthcare clinics.</p>
+  <p>Clinic and patient information is stored on access-controlled cloud infrastructure, and sensitive credentials, such as a Clinic's WhatsApp access token, are stored encrypted. Each Clinic's data is kept separate: every dashboard request is tied to the signed-in user's Clinic, so one Clinic cannot see another Clinic's patients, conversations, appointments, or staff. Access is role-based and authentication is required for dashboard requests. No method of transmission or storage is completely secure, but we apply safeguards appropriate for healthcare clinics.</p>
 
   <h2>6. Data sharing</h2>
-  <p>We do not sell personal information. We share information only with: (a) the Clinic to whom it belongs; (b) service providers acting on our behalf under confidentiality obligations (such as hosting, WhatsApp/Meta, and payment providers); and (c) authorities where required by applicable law.</p>
+  <p>We do not sell personal information. We share information only with: (a) the Clinic to whom it belongs; (b) service providers acting on our behalf under confidentiality obligations (such as the hosting, database, AI, messaging and monitoring providers listed in section 4); and (c) authorities where required by applicable law.</p>
 
   <h2>7. Data retention and deletion</h2>
-  <p>We retain information for as long as needed to provide the service to the Clinic. Clinic admins can delete individual patient records from the dashboard at any time. On full account closure, we permanently remove the Clinic's data from active systems within 30 days, in line with our data-retention practices, subject to any legal retention requirements.</p>
+  <p>We retain information for as long as needed to provide the service to the Clinic. Clinic admins can delete individual patient records from the dashboard at any time. When a Clinic's account is deleted, we remove the Clinic's records, its staff login accounts and its uploaded photos, and we remove our subscription to the Clinic's WhatsApp Business Account. Copies held in our providers' backups may remain until they expire under those providers' normal schedules, and some information may be kept where the law requires it.</p>
+  <p><strong>Data deletion requests.</strong> To ask for information about you to be deleted, email <a href="mailto:orbideskai@gmail.com">orbideskai@gmail.com</a> with the phone number you used on WhatsApp and the name of the clinic you contacted. We pass the request to the Clinic, which controls patient records, and help the Clinic carry it out.</p>
 
   <h2>8. Your choices and rights</h2>
   <p>Patients who wish to access, correct, or delete their information should contact the Clinic they interacted with, as the Clinic controls that data. Clinics can manage and delete their data through the dashboard or by contacting us. Where applicable law grants additional rights, we will honor them in accordance with that law.</p>
@@ -118,13 +127,13 @@
   <p>The platform is intended for use by Clinics and their staff, not directed at children. Any information about minors that a patient or Clinic shares is handled by the Clinic as controller and should follow the Clinic's own policies and applicable law.</p>
 
   <h2>10. Governing law</h2>
-  <p>This Privacy Policy is governed by the laws of Pakistan. All processing, billing, and communication are handled in line with applicable Pakistani commercial and data-protection regulations.</p>
+  <p>This Privacy Policy is governed by the laws of Pakistan. We handle information in line with applicable Pakistani law.</p>
 
   <h2>11. Changes to this policy</h2>
   <p>We may update this Privacy Policy from time to time. When we do, we will revise the "Last updated" date above and, where appropriate, notify Clinics.</p>
 
   <h2>12. Contact us</h2>
-  <p>Questions about this Privacy Policy or your data can be sent to us <a class="jslink" role="button" tabindex="0" onclick="window.location.href='mailto:'+['orbideskai','gmail.com'].join('@')+'?subject='+encodeURIComponent('Inquiry about OrbiDesk AI')">by email</a> or on <a class="jslink" role="button" tabindex="0" onclick="var p=['92','349','386','3894'].join(''),t=encodeURIComponent('Hello OrbiDesk AI, I would like to learn more about your platform.'),m=/Android|iPhone|iPad|iPod/i.test(navigator.userAgent);window.open((m?'https://wa.me/'+p+'?text=':'https://web.whatsapp.com/send?phone='+p+'&text=')+t,'_blank','noopener,noreferrer')">WhatsApp</a>. You can also reach us through our <a href="/contact#book">contact page</a>.</p>
+  <p>Questions about this Privacy Policy or your data can be sent to <a href="mailto:orbideskai@gmail.com">orbideskai@gmail.com</a>, or sent on WhatsApp through our <a href="contact.html">contact page</a>. OrbiDesk AI is operated by Irfan Ullah Khan, Pakistan.</p>
 </div></section>
 
 <!-- FOOTER -->
