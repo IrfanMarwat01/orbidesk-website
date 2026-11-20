@@ -46,8 +46,8 @@
   nav{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.82);backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
   nav .wrap{display:flex;align-items:center;justify-content:space-between;height:70px}
   .brand{display:flex;align-items:center;gap:11px;font-family:'Space Grotesk';font-weight:700;font-size:20px}
-  .logo{width:36px;height:36px;border-radius:10px;background:linear-gradient(135deg,var(--teal),var(--aqua));display:grid;place-items:center;color:var(--navy);font-weight:700;position:relative;box-shadow:var(--glow)}
-  .logo::after{content:"";position:absolute;inset:-4px;border-radius:13px;border:1px solid rgba(34,211,238,.35)}
+  .logo{width:36px;height:36px;border-radius:9px;background:linear-gradient(145deg,#23795d 0%,#164e3c 100%);display:grid;place-items:center;flex:none;box-shadow:inset 0 1px 0 rgba(255,255,255,.14),0 6px 16px -8px rgba(13,36,29,.55)}
+  .logo svg{display:block}
   .navlinks{display:flex;gap:28px;font-size:14.5px;font-weight:500;color:#40515f}
   .navlinks a:hover{color:var(--teal-deep)}
   .navcta{display:flex;gap:12px;align-items:center}
@@ -224,7 +224,7 @@
 
 <!-- NAV -->
 <nav aria-label="Main"><div class="wrap">
-  <a class="brand" href="/"><div class="logo" aria-hidden="true">O</div> OrbiDesk AI</a>
+  <a class="brand" href="/"><span class="logo" aria-hidden="true"><svg viewBox="0 0 100 100" width="26" height="26"><path d="M79.89 47.39 A30 30 0 1 1 52.61 20.11" fill="none" stroke="#fff" stroke-width="15" stroke-linecap="round"/><circle cx="71.21" cy="28.79" r="7.5" fill="#8fe3bf"/></svg></span> OrbiDesk AI</a>
   <div class="navlinks">
     <a href="/product">Product</a>
     <a href="/features">Features</a>
@@ -311,7 +311,7 @@
     <div class="docbadge"><span class="g"></span> Works alongside <b>your team</b></div>
 
     <div class="phone">
-      <div class="ptop"><div class="av">O</div><div class="who">OrbiDesk AI <small>online · replies in seconds</small></div></div>
+      <div class="ptop"><div class="av" style="background:linear-gradient(145deg,#23795d,#164e3c);display:grid;place-items:center" aria-hidden="true"><svg viewBox="0 0 100 100" width="66%" height="66%"><path d="M79.89 47.39 A30 30 0 1 1 52.61 20.11" fill="none" stroke="#fff" stroke-width="15" stroke-linecap="round"/><circle cx="71.21" cy="28.79" r="7.5" fill="#8fe3bf"/></svg></div><div class="who">OrbiDesk AI <small>online · replies in seconds</small></div></div>
       <div class="chat">
         <div class="bubble b-in b1">Hi, do you have a slot with the dermatologist this week?</div>
         <div class="bubble b-out b2">Yes! The dermatologist has Wed 10:00 AM or Thu 4:30 PM. Which suits you? 😊</div>
@@ -441,7 +441,7 @@
 <footer><div class="wrap">
   <div class="fcols">
     <div>
-      <a class="brand" href="/" style="color:#fff;margin-bottom:14px"><div class="logo" aria-hidden="true">O</div> OrbiDesk AI</a>
+      <a class="brand" href="/" style="color:#fff;margin-bottom:14px"><span class="logo" aria-hidden="true"><svg viewBox="0 0 100 100" width="26" height="26"><path d="M79.89 47.39 A30 30 0 1 1 52.61 20.11" fill="none" stroke="#fff" stroke-width="15" stroke-linecap="round"/><circle cx="71.21" cy="28.79" r="7.5" fill="#8fe3bf"/></svg></span> OrbiDesk AI</a>
       <p style="max-width:280px">Your AI WhatsApp receptionist for modern clinics: patient replies, bookings, reminders and follow-ups.</p>
     </div>
     <div><h4>Product</h4><a href="/product">How it works</a><a href="/features">Features</a><a href="/use-cases">Use Cases</a><a href="/pricing">Pricing</a></div>
