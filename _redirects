@@ -9,3 +9,6 @@
 /admin                  https://app.orbideskai.com/admin                  301
 /admin/*                https://app.orbideskai.com/admin/:splat           301
 /meta/whatsapp/callback https://app.orbideskai.com/meta/whatsapp/callback 302
+# 21 Nov 2026: the installable app (installed from the app's own address).
+/install                https://app.orbideskai.com/install                301
+/app                    https://app.orbideskai.com/install                301
