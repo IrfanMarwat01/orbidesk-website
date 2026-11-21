@@ -187,6 +187,8 @@ a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible,t
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;scroll-behavior:auto!important}.reveal,.reveal-up,.bubble,.vcard{opacity:1!important;transform:none!important}}
 /* Home hero on phones: keep the orbit inside the screen */
 html{overflow-x:hidden}
+/* 22 Nov 2026: 'clip' stops sideways dragging on phones without breaking the sticky header (modern browsers); 'hidden' above stays as the fallback */
+@supports (overflow:clip){html,body{overflow-x:clip}}
 @media(max-width:900px){.hero .stage .ring.r2{width:330px;height:330px}.hero .stage .ring.r1{width:250px;height:250px}.hero .stage .n2{right:0}.hero .stage .n5{left:0}.hero .stage .fc-book{right:0}.hero .stage .fc-rev{right:0}}
 @media(max-width:420px){.hero .stage .phone{margin-left:40px;width:220px}.hero .stage .doctor{width:150px;height:214px}.hero .stage .docbadge{left:96px;bottom:110px}}
 @media(max-width:600px){.hero .stage{height:420px}.hero .stage .node,.hero .stage .doctor,.hero .stage .docbadge,.hero .stage .fc-rev{display:none}.hero .stage .phone{margin-left:0}.hero .stage .fc-book{top:-40px;right:0}}
@@ -216,7 +218,11 @@ html{overflow-x:hidden}
 .vidwrap{max-width:980px;margin:0 auto;border-radius:22px;overflow:hidden;box-shadow:var(--shadow);background:#06182B;aspect-ratio:16/9}
 .vidwrap video{display:block;width:100%;height:100%;background:#06182B}
 .vidcap{text-align:center;color:var(--slate);font-size:14px;margin-top:14px}
-dialog.vidmodal{border:0;padding:0;background:transparent;width:min(1040px,94vw);max-width:none;overflow:visible}
+dialog.vidmodal{position:fixed;inset:0;margin:auto;border:0;padding:0;background:transparent;overflow:visible;max-width:none;max-height:none;height:fit-content;
+  /* fit inside the screen both ways: never wider than 94% of the width, never taller than the height minus room for Close */
+  width:min(1040px,94vw,calc((100vh - 110px) * 16 / 9));width:min(1040px,94vw,calc((100dvh - 110px) * 16 / 9))}
+dialog.vidmodal video{object-fit:contain}
+html.vid-open{overflow:hidden}
 dialog.vidmodal::backdrop{background:rgba(6,24,43,.82);backdrop-filter:blur(4px)}
 dialog.vidmodal .vidwrap{box-shadow:0 40px 120px -20px rgba(0,0,0,.7)}
 .vidclose{position:absolute;top:-46px;right:0;background:none;border:0;color:#fff;font-size:15px;font-weight:600;cursor:pointer;padding:8px 4px;font-family:inherit}

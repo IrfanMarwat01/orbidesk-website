@@ -30,6 +30,7 @@
   *{box-sizing:border-box;margin:0;padding:0}
   html{scroll-behavior:smooth}
   body{background:#fff;color:var(--ink);line-height:1.6;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+  @supports (overflow:clip){body{overflow-x:clip}}
   h1,h2,h3,h4,.display{font-family:'Space Grotesk',sans-serif;letter-spacing:-.02em;line-height:1.08}
   .wrap{max-width:1160px;margin:0 auto;padding:0 28px}
   a{text-decoration:none;color:inherit}
@@ -114,6 +115,9 @@
   .vcard{position:absolute;inset:0;background:#fff;border:1px solid rgba(27,148,166,.25);border-radius:16px;padding:22px 26px;box-shadow:0 26px 54px -18px rgba(0,0,0,.55);display:flex;align-items:center;gap:18px;opacity:0;transform:translateX(-160px);transition:opacity .7s ease,transform .85s cubic-bezier(.22,1,.36,1)}
   .vcard.active{opacity:1;transform:translateX(0)}
   .vcard.exit{opacity:0;transform:translateX(160px)}
+  /* 22 Nov 2026: keep the sliding cards inside the screen on phones */
+  .band{overflow-x:clip}
+  @media(max-width:600px){.vcard{transform:translateX(-48px)}.vcard.active{transform:translateX(0)}.vcard.exit{transform:translateX(48px)}}
   .vcard .vic{width:54px;height:54px;flex:0 0 54px;border-radius:15px;display:grid;place-items:center;font-size:25px}
   .vcard .vtext b{font-family:'Space Grotesk';font-size:18px;display:block;margin-bottom:4px}
   .vcard .vtext p{font-size:13.5px;color:var(--slate);line-height:1.45}
