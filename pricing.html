@@ -144,5 +144,6 @@
   function calc(){const pd=+p.value,mp=+m.value/100,val=+v.value,rp=+r.value/100;lp.textContent=pd;lm.textContent=m.value+'%';lv.textContent=fmt(val);lr.textContent=r.value+'%';rec.textContent=r.value+'%';res.textContent='PKR '+fmt(Math.round(pd*30*mp*rp*val));}
   [p,m,v,r].forEach(el=>el.addEventListener('input',calc));calc();
 </script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://orbideskai.com/"}, {"@type": "ListItem", "position": 2, "name": "Pricing", "item": "https://orbideskai.com/pricing"}]}</script>
 </body>
 </html>
