@@ -20,11 +20,20 @@
 <style>
   .valgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
   @media(max-width:900px){.valgrid{grid-template-columns:1fr}}
-  .founder{max-width:420px;margin:0 auto 34px;text-align:center;background:#fff;border:1px solid var(--line);border-radius:20px;padding:34px;box-shadow:var(--shadow)}
+  /* Founder (21 Nov 2026): portrait + introduction */
+  .fnd{max-width:1000px;margin:8px auto 0;display:grid;grid-template-columns:minmax(0,380px) minmax(0,1fr);gap:56px;align-items:center;background:#fff;border:1px solid var(--line);border-radius:28px;padding:40px;box-shadow:var(--shadow)}
+  .fnd-photo{margin:0;position:relative;border-radius:22px;overflow:hidden;aspect-ratio:4/5;background:#e9e7ee;box-shadow:0 30px 60px -30px rgba(10,37,64,.45)}
+  .fnd-photo::after{content:"";position:absolute;inset:0;border-radius:22px;box-shadow:inset 0 0 0 1px rgba(10,37,64,.08);pointer-events:none}
+  .fnd-photo img{display:block;width:100%;height:100%;object-fit:cover}
+  .fnd-body h3{font-size:32px;line-height:1.15;letter-spacing:-.02em;color:var(--navy)}
+  .fnd-role{color:var(--teal-deep);font-weight:600;font-size:15px;margin-top:6px}
+  .fnd-facts{list-style:none;display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 22px;padding:0}
+  .fnd-facts li{font-size:13px;font-weight:600;color:var(--navy);background:var(--mist);border:1px solid var(--line);border-radius:999px;padding:6px 12px}
+  .fnd-body p{color:var(--slate);font-size:15.5px;line-height:1.7;max-width:62ch}
+  .fnd-body p+p{margin-top:12px}
+  .fnd-body p:first-of-type{color:var(--ink);font-weight:500}
+  @media(max-width:900px){.fnd{grid-template-columns:1fr;gap:28px;padding:22px}.fnd-photo{max-width:420px;width:100%;margin:0 auto}.fnd-body h3{font-size:26px}}
   .avatar{width:118px;height:118px;border-radius:50%;margin:0 auto 16px;display:grid;place-items:center;font-family:'Space Grotesk';font-weight:700;font-size:36px;color:#fff;background:linear-gradient(135deg,var(--teal-deep),var(--aqua));box-shadow:0 0 0 6px rgba(27,148,166,.14)}
-  .founder h3{font-size:22px}
-  .founder .role{color:var(--teal-deep);font-weight:600;font-size:14px;margin:4px 0 12px}
-  .founder p{color:var(--slate);font-size:14px}
   .cofounders{display:grid;grid-template-columns:1fr 1fr;gap:20px;max-width:640px;margin:0 auto}
   @media(max-width:900px){.cofounders{grid-template-columns:1fr}}
   .coc{background:#fff;border:1px solid var(--line);border-radius:16px;padding:26px;text-align:center}
@@ -33,9 +42,6 @@
   .coc .role{color:var(--teal-deep);font-weight:600;font-size:13px;margin:3px 0 10px}
   .coc p{color:var(--slate);font-size:13px}
   .photonote{font-size:11px;color:#98a6b2;margin-top:10px}
-  .founder-photo{width:132px;height:132px;border-radius:50%;overflow:hidden;position:relative;margin:0 auto 16px;box-shadow:0 0 0 6px rgba(27,148,166,.14);background:linear-gradient(135deg,var(--teal-deep),var(--aqua));display:grid;place-items:center}
-  .founder-photo .fb{font-family:'Space Grotesk';font-weight:700;font-size:36px;color:#fff}
-  .founder-photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 22%}
   .coc-photo{width:86px;height:86px;border-radius:50%;overflow:hidden;position:relative;margin:0 auto 14px;box-shadow:0 0 0 4px rgba(27,148,166,.1);background:linear-gradient(135deg,var(--teal-deep),var(--aqua));display:grid;place-items:center}
   .coc-photo .fb{font-family:'Space Grotesk';font-weight:700;font-size:26px;color:#fff}
   .coc-photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 28%}
@@ -102,12 +108,27 @@
 <section class="s mist"><div class="wrap">
   <div class="center"><span class="eyebrow">● Founder</span><h2 class="title">Meet the founder</h2></div>
 
-  <div class="founder">
-    <div class="founder-photo"><span class="fb">IK</span></div>
-    <h3>Dr. Irfan Ullah Khan</h3>
-    <div class="role">Founder &amp; CEO</div>
-    <p>MBBS doctor. Healthcare SME, prompt engineer, AI automation &amp; integration expert.</p>
-  </div>
+  <article class="fnd" aria-labelledby="fnd-name">
+    <figure class="fnd-photo">
+      <picture>
+        <source type="image/webp" srcset="/img/founder-irfan-ullah-khan-640.webp 640w, /img/founder-irfan-ullah-khan-960.webp 960w" sizes="(max-width: 900px) 78vw, 380px">
+        <img src="/img/founder-irfan-ullah-khan-960.jpg" srcset="/img/founder-irfan-ullah-khan-640.jpg 640w, /img/founder-irfan-ullah-khan-960.jpg 960w" sizes="(max-width: 900px) 78vw, 380px" width="960" height="1200" alt="Dr. Irfan Ullah Khan, founder of OrbiDesk AI" loading="lazy" decoding="async">
+      </picture>
+    </figure>
+    <div class="fnd-body">
+      <h3 id="fnd-name">Dr. Irfan Ullah Khan</h3>
+      <div class="fnd-role">Founder &amp; CEO, OrbiDesk AI</div>
+      <ul class="fnd-facts">
+        <li>MBBS doctor</li>
+        <li>Product architect of OrbiDesk AI</li>
+        <li>Based in Pakistan</li>
+      </ul>
+      <p>Dr. Irfan Ullah Khan is a medical doctor (MBBS) and the founder of OrbiDesk AI.</p>
+      <p>Practicing medicine showed him how much of a clinic's day goes into WhatsApp: patients asking about prices, timings and appointments, often after hours, while the front desk is busy with the people already in the room. Messages wait, and a patient who doesn't get a reply often books somewhere else.</p>
+      <p>He founded OrbiDesk AI to close that gap, and personally led it from the first idea to a live product: the AI receptionist that answers patients on WhatsApp in English, Urdu and Roman Urdu, the booking, reminder and follow-up system behind it, and the dashboard clinics use every day. Every workflow in OrbiDesk is designed around how clinics actually run, from a clinician's side of the desk.</p>
+      <p>His goal is simple: no patient message left unanswered, and more of the clinic's time for care.</p>
+    </div>
+  </article>
 </div></section>
 
 <!-- FINAL CTA -->
