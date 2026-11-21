@@ -190,3 +190,24 @@ html{overflow-x:hidden}
 @media(max-width:900px){.hero .stage .ring.r2{width:330px;height:330px}.hero .stage .ring.r1{width:250px;height:250px}.hero .stage .n2{right:0}.hero .stage .n5{left:0}.hero .stage .fc-book{right:0}.hero .stage .fc-rev{right:0}}
 @media(max-width:420px){.hero .stage .phone{margin-left:40px;width:220px}.hero .stage .doctor{width:150px;height:214px}.hero .stage .docbadge{left:96px;bottom:110px}}
 @media(max-width:600px){.hero .stage{height:420px}.hero .stage .node,.hero .stage .doctor,.hero .stage .docbadge,.hero .stage .fc-rev{display:none}.hero .stage .phone{margin-left:0}.hero .stage .fc-book{top:-40px;right:0}}
+
+/* 21 Nov 2026: the installable app — header link and the homepage app section */
+.navapp{display:none;align-items:center;gap:7px;font-weight:600;font-size:14.5px;color:var(--teal-deep);padding:8px 4px;white-space:nowrap}
+.navapp:hover{color:var(--navy)}
+@media(min-width:1180px){.navapp{display:inline-flex}}
+.appband{position:relative;overflow:hidden;border-radius:28px;color:#fff;padding:64px 64px;display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,.75fr);gap:48px;align-items:center;
+  background:radial-gradient(640px 320px at 85% 10%,rgba(143,227,191,.16),transparent 60%),radial-gradient(520px 300px at 0% 100%,rgba(34,211,238,.12),transparent 60%),linear-gradient(140deg,#0D241D 0%,#0F3A2E 55%,#0A2540 100%)}
+.appband .eyebrow{color:#8FE3BF;background:rgba(143,227,191,.12)}
+.appband h2{font-size:40px;line-height:1.12;margin:18px 0 14px;color:#fff;text-wrap:balance}
+.appcopy>p{color:#C3D8D0;font-size:17px;max-width:560px}
+.appplat{list-style:none;display:flex;flex-wrap:wrap;gap:10px;margin:24px 0 28px;padding:0}
+.appplat li{display:inline-flex;align-items:center;gap:8px;font-size:14px;color:#E6F2EC;background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.14);border-radius:999px;padding:8px 14px}
+.appbtns{display:flex;flex-wrap:wrap;gap:12px}
+.appnote{color:#9FB8AE;font-size:13.5px;margin-top:16px}
+.appscan{display:flex;justify-content:center}
+.qrcard{background:#fff;color:var(--ink);border-radius:22px;padding:22px 22px 18px;width:100%;max-width:280px;box-shadow:0 30px 70px -30px rgba(0,0,0,.6)}
+.qrcard .qr{display:block;width:100%;height:auto}
+.qrtext{margin-top:14px;text-align:center}
+.qrtext strong{display:block;font-family:'Space Grotesk';font-size:15px;color:var(--navy)}
+.qrtext span{display:block;font-size:13px;color:var(--slate);margin-top:4px}
+@media(max-width:900px){.appband{grid-template-columns:1fr;padding:44px 26px}.appband h2{font-size:30px}.appscan{display:none}}
