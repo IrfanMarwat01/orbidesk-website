@@ -6,3 +6,9 @@
 
 /orbidesk.css
   Cache-Control: public, max-age=3600
+
+/video/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/video-player.js
+  Cache-Control: public, max-age=3600

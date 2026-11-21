@@ -211,3 +211,13 @@ html{overflow-x:hidden}
 .qrtext strong{display:block;font-family:'Space Grotesk';font-size:15px;color:var(--navy)}
 .qrtext span{display:block;font-size:13px;color:var(--slate);margin-top:4px}
 @media(max-width:900px){.appband{grid-template-columns:1fr;padding:44px 26px}.appband h2{font-size:30px}.appscan{display:none}}
+
+/* Promo video: inline player + lightbox */
+.vidwrap{max-width:980px;margin:0 auto;border-radius:22px;overflow:hidden;box-shadow:var(--shadow);background:#06182B;aspect-ratio:16/9}
+.vidwrap video{display:block;width:100%;height:100%;background:#06182B}
+.vidcap{text-align:center;color:var(--slate);font-size:14px;margin-top:14px}
+dialog.vidmodal{border:0;padding:0;background:transparent;width:min(1040px,94vw);max-width:none;overflow:visible}
+dialog.vidmodal::backdrop{background:rgba(6,24,43,.82);backdrop-filter:blur(4px)}
+dialog.vidmodal .vidwrap{box-shadow:0 40px 120px -20px rgba(0,0,0,.7)}
+.vidclose{position:absolute;top:-46px;right:0;background:none;border:0;color:#fff;font-size:15px;font-weight:600;cursor:pointer;padding:8px 4px;font-family:inherit}
+.vidclose:focus-visible{outline:2px solid var(--aqua);outline-offset:3px;border-radius:6px}
