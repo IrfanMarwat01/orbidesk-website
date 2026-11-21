@@ -554,20 +554,91 @@
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
- "@type": "Organization",
- "name": "OrbiDesk AI",
- "url": "https://orbideskai.com",
- "logo": "https://orbideskai.com/apple-touch-icon.png",
- "founder": {
-  "@type": "Person",
-  "name": "Dr. Irfan Ullah Khan",
-  "jobTitle": "Founder & CEO",
-  "honorificPrefix": "Dr.",
-  "hasCredential": "MBBS",
-  "image": "https://orbideskai.com/img/founder-irfan-ullah-khan-960.jpg",
-  "url": "https://orbideskai.com/about"
- },
- "areaServed": "Pakistan"
+ "@graph": [
+  {
+   "@type": "Organization",
+   "@id": "https://orbideskai.com/#org",
+   "name": "OrbiDesk AI",
+   "alternateName": [
+    "OrbiDesk",
+    "Orbi Desk",
+    "Orbidesk AI",
+    "OrbiDeskAI"
+   ],
+   "url": "https://orbideskai.com",
+   "logo": "https://orbideskai.com/apple-touch-icon.png",
+   "email": "help@orbideskai.com",
+   "description": "OrbiDesk AI is an AI WhatsApp receptionist for clinics. It answers patients on the clinic's own WhatsApp number 24/7, books appointments, sends reminders and follows up on missed visits, in English, Urdu and Roman Urdu.",
+   "foundingDate": "2026",
+   "areaServed": [
+    "Pakistan",
+    "South Asia"
+   ],
+   "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "sales",
+    "email": "help@orbideskai.com",
+    "url": "https://orbideskai.com/contact",
+    "availableLanguage": [
+     "English",
+     "Urdu"
+    ]
+   },
+   "founder": {
+    "@type": "Person",
+    "name": "Dr. Irfan Ullah Khan",
+    "jobTitle": "Founder & CEO",
+    "honorificPrefix": "Dr.",
+    "hasCredential": "MBBS",
+    "image": "https://orbideskai.com/img/founder-irfan-ullah-khan-960.jpg",
+    "url": "https://orbideskai.com/about"
+   }
+  },
+  {
+   "@type": "WebSite",
+   "@id": "https://orbideskai.com/#website",
+   "name": "OrbiDesk AI",
+   "alternateName": [
+    "OrbiDesk",
+    "Orbi Desk"
+   ],
+   "url": "https://orbideskai.com",
+   "publisher": {
+    "@id": "https://orbideskai.com/#org"
+   },
+   "inLanguage": "en"
+  },
+  {
+   "@type": "SoftwareApplication",
+   "@id": "https://orbideskai.com/#app",
+   "name": "OrbiDesk AI",
+   "alternateName": "OrbiDesk",
+   "applicationCategory": "BusinessApplication",
+   "applicationSubCategory": "AI WhatsApp receptionist for clinics",
+   "operatingSystem": "Web, Android, iOS (installable web app)",
+   "url": "https://orbideskai.com",
+   "description": "AI WhatsApp receptionist for dental, dermatology, cosmetic, plastic surgery, physiotherapy and general clinics: 24/7 patient replies, appointment booking, reminders, follow-ups, revenue recovery, knowledge base and analytics.",
+   "featureList": [
+    "AI WhatsApp receptionist on the clinic's own number",
+    "Appointment booking 24/7",
+    "Automated reminders",
+    "Follow-ups and patient recall",
+    "Multilingual: English, Urdu and Roman Urdu",
+    "Knowledge base from clinic documents",
+    "Analytics dashboard",
+    "Handoff to clinic staff"
+   ],
+   "publisher": {
+    "@id": "https://orbideskai.com/#org"
+   },
+   "offers": {
+    "@type": "Offer",
+    "url": "https://orbideskai.com/pricing",
+    "availability": "https://schema.org/InStock",
+    "description": "Plans tailored to each clinic; book a free demo."
+   }
+  }
+ ]
 }
 </script>
 <script src="/video-player.js" defer></script>

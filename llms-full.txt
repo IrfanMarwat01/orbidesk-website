@@ -1,0 +1,472 @@
+# OrbiDesk AI — full text of the main pages
+
+Source: https://orbideskai.com — generated from the live pages. See /llms.txt for a short summary.
+
+
+
+---
+
+## Page: https://orbideskai.com/
+
+OrbiDesk AI — Your Clinic's AI WhatsApp Receptionist
+● AI-Powered Clinic Automation
+## Your clinic's AI receptionist that never sleeps
+OrbiDesk AI answers every patient on WhatsApp, books appointments in seconds, sends reminders, and recovers lost revenue — 24/7, in your patients' language.
+Book a Free Demo →
+▶ See how it works
+English, Urdu & Roman Urdu
+24/7 replies in seconds
+Built for clinics
+Smart booking
+Reminders
+Revenue recovery
+Lead capture
+Analytics
+Works alongside your team
+OrbiDesk AI online · replies in seconds
+Hi, do you have a slot with the dermatologist this week?
+Yes! The dermatologist has Wed 10:00 AM or Thu 4:30 PM. Which suits you? 😊
+Wednesday 10 please
+Booked ✅ Wed 10:00 AM with the dermatologist. I'll remind you a day before.
+📅
+Appointment booked Dermatology — 10:00 AM
+＄
+Missed visit followed up New time offered automatically
+💬
+Never miss a patient Every WhatsApp message answered in seconds, day or night.
+📅
+Books 24/7 Appointments confirmed in the chat, no staff needed.
+💸
+Recovers revenue Wins back no-shows and cold leads automatically.
+🌐
+Speaks every language Replies in each patient's own language, switching automatically.
+🩺
+Built for clinics Designed around how clinics book, remind and follow up.
+PURPOSE-BUILT FOR:
+🦷 Dental ✨ Dermatology 💉 Cosmetic 🪞 Plastic Surgery 🦵 Physiotherapy
+● The problem
+### Every missed message is a lost patient
+Clinics lose bookings every day to slow replies, missed calls, and no-shows. Your front desk can't be everywhere — OrbiDesk AI can.
+#### Without OrbiDesk
+✕ Patients message after hours — no one replies
+✕ Reception overwhelmed, calls go unanswered
+✕ No-shows and forgotten follow-ups drain revenue
+✕ Leads from ads go cold before anyone responds
+#### With OrbiDesk AI
+✓ Human-like replies within seconds, 24/7 on WhatsApp
+✓ Appointments booked automatically, around the clock
+✓ Smart reminders slash no-shows
+✓ Every lead engaged the moment it arrives
+● How it works
+### From "hello" to booked — automatically
+💬
+1. Patient messages A patient texts your clinic's WhatsApp number.
+🤖
+2. AI replies OrbiDesk answers within seconds, in their language.
+📅
+3. Books the slot Finds availability and confirms the appointment.
+🔔
+4. Reminds & recovers Sends reminders and re-engages no-shows.
+● Features
+### One AI receptionist, every clinic task
+💬
+AI WhatsApp Receptionist Human-like conversations that handle enquiries, bookings and questions 24/7.
+📅
+Smart Appointment Booking Real-time availability, confirmations, and rescheduling without staff.
+🔔
+Automated Reminders Automatically sends reminders to patients to prevent no-shows and revenue loss.
+💸
+Follow-ups & Recall Follows up on missed visits and unbooked enquiries, and reminds patients when their next check-up is due.
+🌐
+Multilingual AI Automatically replies in the patient's language, and switches the moment the patient changes theirs — all within the same chat.
+📊
+Analytics & Knowledge Base Add docs, PDFs, and text about your clinic — then see all your operations and stats inside the same Admin Dashboard.
+● Use cases
+### Tailored to your specialty
+🦷 Dental
+✨ Dermatology
+💉 Cosmetic
+🪞 Plastic Surgery
+🦵 Physiotherapy
+● See your ROI
+### How much revenue are you leaving on the table?
+Patients messaging per day 40
+Missed / unanswered (%) 25%
+Avg. value per patient (PKR) 3,000
+Missed conversations that become bookings (%) 30%
+Drag the sliders — the estimate updates live.
+Estimated revenue OrbiDesk could recover
+PKR 0
+per month
+Assumes 30% of missed conversations become bookings. An estimate, not a guarantee.
+● The OrbiDesk app
+### Your clinic's AI WhatsApp receptionist, in your pocket
+Install the OrbiDesk dashboard on your phone or computer. Follow every patient conversation, booking and lead from its own app window, one tap from your home screen.
+- iPhone & iPad
+- Android
+- Windows & Mac
+Get the app
+Open the dashboard
+Free with your OrbiDesk account. Nothing to download from an app store.
+Scan to install on your phone Point your phone's camera at the code.
+● FAQ
+### Questions clinics ask us
+Does it use my clinic's own WhatsApp number?
+Yes. OrbiDesk connects to your clinic's WhatsApp Business number so patients talk to "you," with the AI handling replies within seconds.
+Will it sound robotic to my patients?
+No. The AI is tuned for clinic conversations and your knowledge base, so it replies naturally and on-brand — in your patients' language.
+Is my patient data safe?
+Each clinic's data is kept separate, and staff see only their own clinic. We walk you through our privacy approach during your demo.
+How long does setup take?
+Setup is guided and needs no technical knowledge. You add your clinic details, doctors and hours, and we help you connect your WhatsApp Business number through Meta's official platform.
+### Never miss another patient
+See OrbiDesk AI handle your clinic's WhatsApp live. Book a free demo today.
+Book a Free Demo →
+
+
+---
+
+## Page: https://orbideskai.com/product
+
+How OrbiDesk AI Works — Product | AI WhatsApp Receptionist for Clinics
+● How it works
+## From "hello" to booked — automatically, on WhatsApp
+OrbiDesk AI works like a tireless front-desk receptionist that lives inside your clinic's WhatsApp. Here's exactly what happens every time a patient messages.
+Book a Free Demo →
+● Watch
+### See OrbiDesk AI in action
+Your browser can't play this video. Download it here .
+Example conversation shown for illustration.
+● The 24/7 loop
+### Five steps that never sleep
+Every patient conversation flows through the same reliable loop — no missed messages, no forgotten follow-ups.
+💬 1. Message Patient texts your WhatsApp.
+🤖 2. Reply AI answers in seconds.
+📅 3. Book Appointment confirmed.
+🔔 4. Remind Reminders sent automatically.
+💸 5. Recover No-shows & leads re-engaged.
+1
+#### The patient messages your clinic
+A patient sends a WhatsApp message to your clinic's own number — a new enquiry, a booking request, or a question about services. No app to download, no form to fill. Just the channel your patients already use every day.
+Assalam o Alaikum, do you treat acne scars?
+And what are your timings tomorrow?
+Wa Alaikum Assalam! Yes, we offer acne-scar treatments. Tomorrow we're open 11 AM–8 PM. Would you like me to book you a consultation? 😊
+2
+#### The AI replies within seconds — in their language
+OrbiDesk understands the question and responds in seconds, matching the patient's language and switching automatically if they change it mid-chat. It answers from your clinic's own knowledge base, so replies are accurate and on-brand — never a missed message, even at midnight.
+3
+#### It books the appointment for you
+Once the patient is ready, the AI checks availability, offers real slots, and confirms the booking — capturing the patient's details in the process. Rescheduling and cancellations are handled the same effortless way.
+📅
+Appointment booked Consultation · Tomorrow, 4:30 PM
+🔔
+Reminder sent "See you tomorrow at 4:30 PM"
+4
+#### It reminds patients so they show up
+OrbiDesk automatically sends reminders before each appointment to prevent no-shows and the revenue loss they cause. Patients can confirm, reschedule, or cancel right in the chat.
+5
+#### It recovers the revenue you'd otherwise lose
+Missed appointments and unbooked enquiries don't just disappear. OrbiDesk follows up on missed visits, re-contacts patients who asked but didn't book, and reminds past patients when their next check-up is due.
+＄
+Missed visit followed up "Sorry we missed you. Shall I find a new time?"
+● One place for everything
+### Every conversation, booking & stat in one dashboard
+Behind the scenes, your team sees every chat, appointment, patient, lead, and result inside a single Admin Dashboard — with your clinic knowledge, hours, and services all configurable in a few clicks.
+🗂️
+Conversations & Patients Every WhatsApp thread and patient record in one view.
+📈
+Analytics See what patients ask and how bookings trend.
+⚙️
+Configuration Set hours, services, and knowledge — no code.
+### See the whole loop live
+Book a free demo and watch OrbiDesk AI handle a real clinic conversation end to end.
+Book a Free Demo →
+
+
+---
+
+## Page: https://orbideskai.com/features
+
+Features — OrbiDesk AI | AI WhatsApp Receptionist for Clinics
+● Features
+## Powerful features for modern clinics
+Every tool your clinic needs to automate WhatsApp patient communication, reduce missed appointments, and grow your practice in one AI receptionist.
+Book a Free Demo →
+● The complete toolkit
+### Everything OrbiDesk AI does for your clinic
+💬
+AI WhatsApp Receptionist Answers every patient on your clinic's WhatsApp, day and night, using your clinic's own information.
+24/7
+🎙️
+Voice Notes Understands patients' voice notes and replies in text, or with a natural voice note on plans that include it.
+Text & voice
+🌐
+English, Urdu & Roman Urdu Replies in the patient's own language and follows them when they switch in the middle of a chat.
+Auto-detected
+📅
+Appointment Booking Patients book, reschedule or cancel in the chat. The AI checks real availability before it confirms anything.
+Real availability
+👥
+Multi-Doctor Scheduling Each doctor has their own hours, treatments, prices and appointment lengths, plus leave days and clinic holidays the AI respects.
+Per-doctor settings
+🔔
+Appointment Reminders A reminder one day before and two hours before each visit, in English or Urdu, using WhatsApp-approved message templates.
+1 day + 2 hours
+📋
+Preparation Notes Sends each treatment's preparation instructions before the visit, so patients arrive ready.
+Before the visit
+🩹
+Recovery Check-ins & Reviews Checks on patients a few days after treatment, and asks patients for a review.
+After the visit
+📲
+No-Show Follow-up When a visit is marked as missed, the patient gets a friendly message offering a new time.
+Automatic rebooking offer
+🔁
+Patient Recall Reminds patients when their next check-up is due, for example six months after their last visit. You choose the interval.
+Brings patients back
+💡
+Enquiry Follow-up If a patient asked about a treatment but didn't book, OrbiDesk follows up a few hours later.
+Fewer lost enquiries
+🛎️
+Escalation to Your Team You decide when a person should step in. OrbiDesk alerts your chosen staff on WhatsApp with a short summary.
+Your rules
+📚
+Clinic Knowledge Base Add documents, PDFs, text or your website. The AI answers from your clinic's real information and doesn't make up prices or promises.
+Answers from your facts
+📊
+Dashboard & Analytics Every conversation, appointment and patient in one place, with analytics and CSV export.
+One dashboard
+🔒
+Private by Design Each clinic's data is kept separate. Staff see only their own clinic, and every dashboard request is checked.
+Clinic-level isolation
+💬
+#### A receptionist that never clocks out
+OrbiDesk holds natural, on-brand conversations on WhatsApp — answering questions, remembering patient history, sensing sentiment, and guiding patients to a booking. It works from your clinic's own knowledge, so it sounds like your front desk, only faster and always available.
+Answers in seconds, 24/7
+Remembers patient history & context
+Escalates to your team / owner when needed
+Per-doctor slots, leave days & holidays
+Reminders & automated follow-ups
+No-show follow-up & patient recall
+💸
+#### Fill the calendar, protect the revenue
+Booking, reminders, follow-ups and recall work together as one system: appointments get the right length for each doctor, reminders cut no-shows, and follow-ups bring back patients who slipped away, so more conversations become visits.
+### See every feature on your clinic's WhatsApp
+Book a free demo and we'll show you exactly how OrbiDesk AI fits your workflow.
+Book a Free Demo →
+
+
+---
+
+## Page: https://orbideskai.com/use-cases
+
+Use Cases — OrbiDesk AI for Dental, Derma & Every Clinic
+● Use cases
+## Tuned to your specialty
+OrbiDesk AI adapts to the way your specific clinic works — the questions patients ask, the appointments they book, and the follow-ups that protect your revenue.
+🦷 Dental
+✨ Dermatology
+💉 Cosmetic
+🪞 Plastic Surgery
+🦵 Physiotherapy
+🦷 Dental clinics
+#### Fill the chair, cut the no-shows
+Dental patients message at all hours to ask about cleanings, braces, pain, and pricing. OrbiDesk answers within seconds, books the slot, and reminds them before the visit — so your chairs stay full.
+Problem After-hours pain enquiries go unanswered until morning — and those patients often book elsewhere.
+OrbiDesk AI Solution A reply within seconds, a booked appointment, and a reminder that prevents the no-show — automatically.
+OrbiDesk AI example conversation
+My tooth has been hurting since last night. Can I come in today?
+Sorry to hear that. We have 5:30 PM today with the dentist. Shall I book it?
+Yes please
+Booked ✅ Today, 5:30 PM. See you then.
+OrbiDesk AI example conversation
+Do you treat acne scars with laser?
+Yes. The doctor first checks your skin at a consultation. Thursday 4 PM or Saturday 12 PM?
+Saturday
+Done ✅ Saturday, 12 PM. I'll remind you a day before.
+✨ Dermatology clinics
+#### Turn skin-care enquiries into consultations
+Derma clinics run on enquiries — acne, scars, laser, anti-ageing. OrbiDesk answers common questions from your knowledge base and turns interest into booked consultations before it goes cold.
+Problem Enquiries about acne or skin treatments cool off before busy staff can reply.
+OrbiDesk AI Solution Every enquiry answered the moment it lands and guided to a consultation.
+💉 Cosmetic & aesthetic centers
+#### High-value bookings, handled with care
+Aesthetic patients expect fast, discreet, confident answers. OrbiDesk responds within seconds to enquiries about treatments and pricing, follows up on unbooked enquiries, and books consultations — while keeping every conversation on-brand.
+Problem High-intent leads are lost to slow replies and a busy front desk.
+OrbiDesk AI Solution Immediate, professional responses that protect premium bookings, day and night.
+OrbiDesk AI example conversation
+I'm interested in lip fillers but want to keep it private.
+Of course. Your details stay with the clinic only. Would you like a consultation this week?
+Friday evening?
+Friday 6 PM is free. Shall I book it?
+OrbiDesk AI example conversation
+What is recovery like after rhinoplasty?
+It differs for each person, so the surgeon explains it at your consultation. Want me to book one?
+Yes, next week
+Booked ✅ Tuesday, 3 PM with the surgeon.
+🪞 Plastic surgery clinics
+#### Guide high-consideration patients to consultation
+Plastic-surgery patients research carefully and ask detailed questions about procedures, recovery, and pricing before they commit. OrbiDesk responds within seconds and discreetly, follows up if they don't book, and books the consultation — so high-value enquiries never slip away.
+Problem Detailed procedure enquiries sit unanswered for hours; high-value leads drift to competitors.
+OrbiDesk AI Solution Discreet, informative replies within seconds that guide patients toward a booked consultation.
+🦵 Physiotherapy centers
+#### Keep every session on the calendar
+Physio depends on recurring sessions. OrbiDesk books the next appointment, sends reminders to keep patients on their plan, and re-engages anyone who drops off — protecting both outcomes and revenue.
+Problem Patients skip sessions and quietly fall out of their treatment plan.
+OrbiDesk AI Solution Automated reminders and follow-ups keep patients on plan and coming back.
+OrbiDesk AI example conversation
+I missed yesterday's session. Can I reschedule?
+No problem. Wednesday 6 PM or Thursday 11 AM?
+Thursday
+Moved ✅ Thursday, 11 AM. Keep going, you're doing well!
+### Whatever your specialty, OrbiDesk fits
+Book a free demo and we'll tailor it to your clinic's exact workflow.
+Book a Free Demo →
+
+
+---
+
+## Page: https://orbideskai.com/pricing
+
+Pricing — OrbiDesk AI | AI WhatsApp Receptionist for Clinics
+● Pricing
+## Simple, predictable pricing for smarter clinics
+Automate your clinic's WhatsApp, bookings, and follow-ups — without hiring extra staff. See what OrbiDesk could recover for you, then book a demo for a plan tailored to your clinic.
+Book a Free Demo →
+● See your ROI
+### How much revenue are you leaving on the table?
+Patients messaging per day 40
+Missed / unanswered (%) 25%
+Avg. value per patient (PKR) 3,000
+Missed conversations that become bookings (%) 30%
+Drag the sliders — the estimate updates live.
+Estimated revenue OrbiDesk could recover
+PKR 0
+per month
+Assumes 30% of missed conversations become bookings. An estimate, not a guarantee.
+● Why OrbiDesk AI
+### Why clinics choose OrbiDesk
+🤖
+A fully autonomous AI receptionist. Your team steps in only when your rules say so.
+💬
+Works directly on WhatsApp — no new app needed.
+✨
+Follows up on missed visits and unbooked enquiries automatically.
+🕐
+Handles bookings 24/7 without human staff.
+🛡️
+Designed specifically for clinics — not generic AI tools.
+### See OrbiDesk AI in action
+See how OrbiDesk AI runs your clinic automatically, in real time. Book a free demo and we'll tailor a plan to your clinic.
+Book a Demo →
+
+
+---
+
+## Page: https://orbideskai.com/about
+
+About — OrbiDesk AI | AI WhatsApp Receptionist for Clinics
+● About us
+## Built to amplify clinic teams, not replace them
+We started OrbiDesk AI after watching clinic receptionists struggle with dozens of WhatsApp messages while managing a full waiting room. We knew AI could help — not replace staff, but amplify them.
+● Our values
+### What we build around
+🎯
+Mission-Driven OrbiDesk AI helps clinics automate patient communication and daily operations — from automated booking to smart follow-ups — reducing missed appointments and keeping schedules full, without extra staff.
+🛡️
+Secure by Design Patient data is handled with a privacy-first approach: secure channels, controlled access permissions, and strict data isolation so only authorized clinic staff can view sensitive information.
+🌐
+Multilingual by Design OrbiDesk AI understands real clinic workflows and how patients actually interact. Whether they text in English, Urdu or Roman Urdu, the AI replies in the same language.
+👥
+Clinic-Centric Every feature is built around real clinic needs — booking, reminders, follow-ups, and workflow integration. OrbiDesk AI fits how your clinic already works, not the other way around.
+🕐
+Automation That Saves Time Reduce staff workload with automated scheduling, timely reminders, and no-show recovery — clinic automation that handles repetitive tasks so your team can focus on patient care.
+💬
+WhatsApp-First Communication Patients interact via WhatsApp — no app to install. A familiar, effortless experience for patients while automating your clinic's WhatsApp communication 24/7.
+● Founder
+### Meet the founder
+#### Dr. Irfan Ullah Khan
+Founder & CEO, OrbiDesk AI
+- MBBS doctor
+- Product architect of OrbiDesk AI
+- Based in Pakistan
+Dr. Irfan Ullah Khan is a medical doctor (MBBS) and the founder of OrbiDesk AI.
+Practicing medicine showed him how much of a clinic's day goes into WhatsApp: patients asking about prices, timings and appointments, often after hours, while the front desk is busy with the people already in the room. Messages wait, and a patient who doesn't get a reply often books somewhere else.
+He founded OrbiDesk AI to close that gap, and personally led it from the first idea to a live product: the AI receptionist that answers patients on WhatsApp in English, Urdu and Roman Urdu, the booking, reminder and follow-up system behind it, and the dashboard clinics use every day. Every workflow in OrbiDesk is designed around how clinics actually run, from a clinician's side of the desk.
+His goal is simple: no patient message left unanswered, and more of the clinic's time for care.
+### Join the OrbiDesk AI mission
+Help us transform healthcare communication for clinics. Book a free demo to see it in action.
+Book a Free Demo →
+
+
+---
+
+## Page: https://orbideskai.com/faq
+
+FAQ — OrbiDesk AI WhatsApp Receptionist for Clinics
+● FAQ
+## Everything you need to know about OrbiDesk AI
+Clear answers about features, setup, security, and how OrbiDesk AI runs your clinic on WhatsApp — automatically.
+### About OrbiDesk AI
+What is OrbiDesk AI?
+OrbiDesk AI is a WhatsApp AI receptionist built specifically for clinics. It handles patient conversations, books appointments, sends reminders and follows up on missed visits and enquiries, automatically, 24/7, directly inside WhatsApp. No new app for patients to download, and no extra reception staff to hire.
+Who is OrbiDesk AI built for?
+OrbiDesk AI is built for specialized clinics — dental clinics, dermatology clinics, aesthetic/cosmetic centers, plastic surgery clinics, and physiotherapy centers — from single-doctor practices to clinics with several doctors.
+Is OrbiDesk AI a medical or diagnostic tool?
+No. OrbiDesk AI is strictly a clinic communication and automation platform. It does not diagnose conditions, prescribe medication, or replace medical advice from a qualified clinician. All medical decisions remain with the clinic's doctors.
+Which country and laws does OrbiDesk AI operate under?
+OrbiDesk AI is a Pakistan-based platform and operates under Pakistani law. Billing is processed in PKR (Pakistani Rupees) and contracts are governed by Pakistan's commercial regulations.
+### Features & Capabilities
+What can the AI receptionist actually do on WhatsApp?
+It replies to patient enquiries, books, reschedules and cancels appointments against real availability, sends reminders and preparation notes, checks in after treatment, follows up on missed visits and unbooked enquiries, reminds patients when a check-up is due, and alerts your team when your escalation rules are met.
+Does OrbiDesk AI support multiple languages?
+Yes. OrbiDesk AI replies in English, Urdu and Roman Urdu, in the same language the patient uses. It also understands voice notes.
+How fast does the AI respond to patients?
+Replies usually arrive in well under half a minute, 24 hours a day, 7 days a week, including nights, weekends and holidays.
+Can the AI book appointments by itself?
+Yes. OrbiDesk AI handles end-to-end booking: it checks doctor availability, matches the requested procedure to the correct duration, blocks the time slot, confirms with the patient, and writes the appointment to the clinic's dashboard automatically.
+Can OrbiDesk AI recover missed appointments and no-shows?
+Yes. When a visit is marked as missed, OrbiDesk sends the patient a friendly message offering a new time. It also reminds past patients when their next check-up is due.
+### Setup, Onboarding & WhatsApp
+How long does it take to get OrbiDesk AI live?
+Setup is guided and needs no technical knowledge. You add your clinic details, doctors and hours, and we help you connect your WhatsApp Business number through Meta's official platform.
+Do I need a WhatsApp Business account?
+Yes. OrbiDesk AI connects through the official Meta WhatsApp Business Platform, and we guide you through connecting your number during onboarding.
+Will my existing WhatsApp number change?
+In most cases you can keep your clinic's existing number, so patients keep messaging the number they already know. We check your number's setup with you during onboarding.
+Do my patients need to install any new app?
+No. Patients simply message your clinic on WhatsApp the way they already do. OrbiDesk AI works invisibly behind that same number.
+### Pricing & Billing
+How much does OrbiDesk AI cost?
+Pricing is tailored to your clinic's size and needs. Book a free demo and we'll walk you through a plan and quote that fits your clinic. Billing is in PKR (Pakistani Rupees).
+Is there a free trial?
+Instead of a free trial, we offer a free live demo so you can see exactly how OrbiDesk AI works for your clinic before you subscribe. You can book one on the Contact page.
+How do I get a quote?
+Book a demo on the Contact page or message us on WhatsApp. We'll understand your clinic's setup — specialty, number of doctors and patient volume — and share the right plan for you.
+### Data Security & Privacy
+Is my clinic and patient data secure with OrbiDesk AI?
+Yes. Every clinic operates inside its own isolated tenant. Strict row-level security ensures no clinic can ever see, query, or access another clinic's patients, conversations, appointments, or staff. Authentication is enforced on every dashboard request.
+Where is my data stored?
+All clinic and patient data is stored on encrypted, access-controlled cloud infrastructure with role-based access. Only authorized users from your clinic (and you, the clinic admin) can read or modify your data.
+Can I delete my patient data?
+Yes. Clinic admins can delete a patient's records from the dashboard. When a clinic account is closed, all of that clinic's data is deleted.
+### Comparison & Alternatives
+How is OrbiDesk AI different from a regular WhatsApp chatbot?
+Generic chatbots follow rigid scripts. OrbiDesk AI is an autonomous AI receptionist built for clinics: it knows your treatments and doctors, books against real availability, remembers patient history, and alerts your team when your rules say a person should step in.
+How is OrbiDesk AI different from hiring a human receptionist?
+A human receptionist works fixed hours, handles one chat at a time, takes leave, and costs a recurring salary. OrbiDesk AI works 24/7, handles many conversations at the same time, remembers each patient, and works alongside your team.
+Why not just use ChatGPT or a generic AI tool?
+Generic AI tools have no knowledge of your clinic's doctors, procedures, prices or schedules. They cannot book real appointments, cannot manage no-shows, and cannot integrate with WhatsApp Business. OrbiDesk AI is a turnkey clinic system, not a generic chat box.
+### Support & Help
+How do I get support if I have a problem?
+You can reach the OrbiDesk AI team by email or WhatsApp from the Contact page. We help every clinic through onboarding.
+Do you provide training for clinic staff?
+Yes. Every onboarding includes a guided walkthrough of the dashboard and the AI settings.
+What happens if the AI cannot answer a patient's question?
+When a conversation meets the escalation rules you set in the dashboard, OrbiDesk AI alerts your chosen staff on WhatsApp with a summary so a person can step in.
+#### Still have questions?
+Our team is happy to walk you through OrbiDesk AI live and answer anything specific to your clinic.
+Contact us →
+### Ready to put your clinic on autopilot?
+Book a free demo and see OrbiDesk AI go live on WhatsApp.
+Book a Free Demo →

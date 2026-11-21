@@ -1,0 +1,29 @@
+# OrbiDesk AI
+
+> OrbiDesk AI (also written "OrbiDesk" or "Orbi Desk") is an AI WhatsApp receptionist for clinics. It answers every patient on the clinic's own WhatsApp Business number 24/7, books appointments in the chat, sends reminders, follows up on missed visits and unbooked enquiries, and replies in the patient's own language (English, Urdu and Roman Urdu). Website: https://orbideskai.com
+
+OrbiDesk AI is deeply tuned for complex specialty workflows (dental, dermatology, aesthetic and cosmetic, plastic surgery, physiotherapy) and works for every other clinic too, including general physicians. It is made for clinics across Pakistan and South Asia. It connects to WhatsApp through Meta's official WhatsApp Business Platform. The founder is Dr. Irfan Ullah Khan (MBBS).
+
+## Product
+- [How OrbiDesk AI works](https://orbideskai.com/product): the patient messages, the AI replies, books the slot, reminds and recovers no-shows. Includes a 40-second video.
+- [Features](https://orbideskai.com/features): AI WhatsApp receptionist, appointment booking, multi-doctor scheduling, reminders, follow-ups and recall, multilingual replies, knowledge base, analytics, handoff to staff.
+- [Use cases](https://orbideskai.com/use-cases): dental, dermatology, cosmetic, plastic surgery, physiotherapy and general clinics.
+- [Pricing](https://orbideskai.com/pricing): plans are tailored to each clinic; book a free demo. Includes a revenue-recovery calculator.
+
+## Company
+- [About](https://orbideskai.com/about): founder and mission.
+- [FAQ](https://orbideskai.com/faq): setup, data safety, languages, WhatsApp number.
+- [Contact / book a demo](https://orbideskai.com/contact): help@orbideskai.com
+
+## Guides
+- [Why your clinic needs a WhatsApp AI receptionist](https://orbideskai.com/blog/why-clinic-needs-whatsapp-ai-receptionist)
+- [How AI WhatsApp receptionists are transforming clinics](https://orbideskai.com/blog/ai-whatsapp-receptionists-transforming-clinics)
+- [10 ways to reduce missed appointments](https://orbideskai.com/blog/reduce-missed-appointments)
+- [How to automate patient communication with AI](https://orbideskai.com/blog/automate-patient-communication-ai)
+- [Multilingual AI for diverse patients](https://orbideskai.com/blog/multilingual-ai-diverse-patients)
+- [The future of AI in healthcare clinics](https://orbideskai.com/blog/future-ai-healthcare-clinics)
+
+## Optional
+- [Full text of the main pages](https://orbideskai.com/llms-full.txt)
+- [Privacy policy](https://orbideskai.com/privacy-policy)
+- [Terms of service](https://orbideskai.com/terms-of-service)
